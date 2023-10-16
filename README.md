@@ -2,6 +2,8 @@
 
 Notewave is a feature-rich, Notion-style notes app built with modern technologies. With Real-time database, Notion-style editor, Light and Dark mode, Infinite children documents, and many more exciting features, Notewave is the perfect tool to help you organize your thoughts, tasks, and ideas.
 
+Website Link: https://notewave-chi.vercel.app/
+
 ## Features
 
 - Real-time Database 🔗: Enjoy real-time synchronization and collaborative editing of your notes.
