@@ -1,7 +1,7 @@
 "use client";
 
 import { useTheme } from "next-themes";
-import {
+import { 
   BlockNoteEditor,
   PartialBlock
 } from "@blocknote/core";
