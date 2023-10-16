@@ -69,3 +69,14 @@ Notewave is a feature-rich, Notion-style notes app built with modern technologie
 3. Customize your notes with icons and cover images.
 4. Utilize real-time collaboration and synchronization.
 5. Explore various other features to enhance your note-taking experience.
+
+![home-dark](https://github.com/DhruvSharma19/notion/assets/112254552/e9b1cd32-73ca-4651-a8ac-eec4d6a8898b)
+![home-light](https://github.com/DhruvSharma19/notion/assets/112254552/f30065c8-ad5b-4cef-92e8-4fc71de62998)
+![home-auth](https://github.com/DhruvSharma19/notion/assets/112254552/61f5c35b-ee81-4134-b220-b526d2858313)
+![notes-light](https://github.com/DhruvSharma19/notion/assets/112254552/e8ac146d-8345-4ad8-bebb-b041a2f960bf)
+![document-light](https://github.com/DhruvSharma19/notion/assets/112254552/dd770173-68bb-4ce5-8209-c673dda44cd1)
+
+
+https://github.com/DhruvSharma19/notion/assets/112254552/ef164a06-def0-409a-85c2-3c07a7fc36b6
+
+
