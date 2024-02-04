@@ -12,7 +12,6 @@ const MarketingPage = () => {
       <Footer />
     </div>
   );
-}
+};
 
 export default MarketingPage;
-

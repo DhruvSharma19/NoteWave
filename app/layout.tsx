@@ -1,19 +1,19 @@
 import { Toaster } from "sonner";
-import { Inter } from 'next/font/google'
-import type { Metadata } from 'next'
-
-import { ThemeProvider } from '@/components/providers/theme-provider'
-import { ConvexClientProvider } from '@/components/providers/convex-provider'
+import { Inter } from "next/font/google";
+import type { Metadata } from "next";
+import { ThemeProvider } from "@/components/providers/theme-provider";
+import { ConvexClientProvider } from "@/components/providers/convex-provider";
 import { ModalProvider } from "@/components/providers/modal-provider";
 import { EdgeStoreProvider } from "@/lib/edgestore";
 
-import './globals.css'
+import "./globals.css";
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Notion',
-  description: 'The connected workspace where better, faster work happens.',
+  title: "NoteWave",
+  description:
+    "Elevate your productivity with NoteWave, the connected workspace where better, faster work happens. Experience seamless collaboration, intuitive document editing, and a secure environment for organizing your ideas and tasks.",
   icons: {
     icon: [
       {
@@ -25,15 +25,15 @@ export const metadata: Metadata = {
         media: "(prefers-color-scheme: dark)",
         url: "/logo-dark.svg",
         href: "/logo-dark.svg",
-      }
-    ]
-  }
-}
+      },
+    ],
+  },
+};
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
@@ -55,5 +55,5 @@ export default function RootLayout({
         </ConvexClientProvider>
       </body>
     </html>
-  )
+  );
 }

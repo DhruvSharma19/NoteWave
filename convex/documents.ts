@@ -93,7 +93,7 @@ export const create = mutation({
 
     if (!identity) {
       throw new Error("Not authenticated");
-    }
+    } 
 
     const userId = identity.subject;
 
