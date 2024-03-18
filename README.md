@@ -2,6 +2,8 @@
 
 Notewave is a feature-rich, Notion-style notes app built with modern technologies. With Real-time database, Notion-style editor, Light and Dark mode, Infinite children documents, and many more exciting features, Notewave is the perfect tool to help you organize your thoughts, tasks, and ideas.
 
+https://github.com/DhruvSharma19/notion/assets/112254552/ef164a06-def0-409a-85c2-3c07a7fc36b6
+
 Website Link: https://notewave-chi.vercel.app/
 
 ## Features
@@ -77,8 +79,3 @@ Website Link: https://notewave-chi.vercel.app/
 ![home-auth](https://github.com/DhruvSharma19/notion/assets/112254552/61f5c35b-ee81-4134-b220-b526d2858313)
 ![notes-light](https://github.com/DhruvSharma19/notion/assets/112254552/e8ac146d-8345-4ad8-bebb-b041a2f960bf)
 ![document-light](https://github.com/DhruvSharma19/notion/assets/112254552/dd770173-68bb-4ce5-8209-c673dda44cd1)
-
-
-https://github.com/DhruvSharma19/notion/assets/112254552/ef164a06-def0-409a-85c2-3c07a7fc36b6
-
-
