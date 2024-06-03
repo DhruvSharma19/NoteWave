@@ -1,6 +1,6 @@
-# Notewave - Your Notion-style Notes App
+# Notewave - Your Notes App
 
-Notewave is a feature-rich, Notion-style notes app built with modern technologies. With Real-time database, Notion-style editor, Light and Dark mode, Infinite children documents, and many more exciting features, Notewave is the perfect tool to help you organize your thoughts, tasks, and ideas.
+Notewave is a feature-rich notes app built with modern technologies. With Real-time database, feature rich editor, Light and Dark mode, Infinite children documents, and many more exciting features, Notewave is the perfect tool to help you organize your thoughts, tasks, and ideas.
 
 🧑‍💻 **Test User:** testUser@gmail.com  
 🔐 **Password:** 12345678
@@ -21,7 +21,7 @@ https://github.com/DhruvSharma19/notion/assets/112254552/ef164a06-def0-409a-85c2
 
 - Real-time Database 🔗: Enjoy real-time synchronization and collaborative editing of your notes.
 
-- Notion-style Editor 📝: Create rich and visually appealing documents with ease.
+- Feature rich Editor 📝: Create rich and visually appealing documents with ease.
 
 - Light and Dark Mode 🌓: Choose your preferred interface style for day and night.
 
