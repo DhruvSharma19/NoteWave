@@ -6,6 +6,11 @@ https://github.com/DhruvSharma19/notion/assets/112254552/ef164a06-def0-409a-85c2
 
 Website Link: https://notewave-chi.vercel.app/
 
+![NoteWave-2](https://github.com/DhruvSharma19/NoteWave/assets/112254552/9dd4e428-72c2-48d1-a8e2-0b20956eb897)
+![Notewave-3](https://github.com/DhruvSharma19/NoteWave/assets/112254552/5f01e10d-c6ae-46af-9624-6b6ca0765bc5)
+![NoteWave-1](https://github.com/DhruvSharma19/NoteWave/assets/112254552/7d5f9e96-90df-42c1-adb7-94b5a5f55a34)
+
+
 ## Features
 
 - Real-time Database 🔗: Enjoy real-time synchronization and collaborative editing of your notes.
