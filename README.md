@@ -68,6 +68,7 @@ https://github.com/DhruvSharma19/notion/assets/112254552/ef164a06-def0-409a-85c2
 ![home-auth](https://github.com/DhruvSharma19/notion/assets/112254552/61f5c35b-ee81-4134-b220-b526d2858313)
 ![notes-light](https://github.com/DhruvSharma19/notion/assets/112254552/e8ac146d-8345-4ad8-bebb-b041a2f960bf)
 ![document-light](https://github.com/DhruvSharma19/notion/assets/112254552/dd770173-68bb-4ce5-8209-c673dda44cd1)
+![notes-dark](https://github.com/DhruvSharma19/NoteWave/assets/112254552/da5aa19c-88d8-4de3-8acb-debb855168c6)
 
 Your instructions look great! I made a couple of minor formatting adjustments for clarity:
 
