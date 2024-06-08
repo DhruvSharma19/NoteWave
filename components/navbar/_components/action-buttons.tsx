@@ -42,7 +42,7 @@ const ActionButtons = () => {
         </div>
 
         <div className="flex lg:space-x-4 items-center pr-4">
-        {isLoading && <Spinner />}
+        {isClient && isLoading && <Spinner />}
           {isClient && !isAuthenticated && !isLoading && (
             <>
               <SignInButton mode="modal">

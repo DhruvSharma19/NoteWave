@@ -121,7 +121,7 @@ const HeroSection = () => {
       </p>
 
       <div className="flex gap-4 pt-6 items-center justify-center">
-        {isLoading && (
+        { isClient && isLoading && (
           <div className="w-full flex items-center justify-center">
             <Spinner size="lg" />
           </div>
