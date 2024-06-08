@@ -1,17 +1,30 @@
-import { Footer } from "./_components/footer";
-import { Heading } from "./_components/heading";
-import { Heroes } from "./_components/heroes";
+import Navbar from "@/components/navbar/navbar";
+import HeroSection from "./hero-section";
+import SecondSection from "./second-section";
+import ThirdSection from "./third-section";
+import FourthSection from "./fourth-section";
+import FifthSection from "./fifth-section";
+import SixthSection from "./sixth-section";
+import SeventhSection from "./seventh-section";
+import GetStartedFree from "./eighth-section";
+import Footer from "@/components/footer";
 
-const MarketingPage = () => {
-  return (
-    <div className="min-h-full flex flex-col dark:bg-[#1F1F1F]">
-      <div className="flex flex-col items-center justify-center md:justify-start text-center gap-y-8 flex-1 px-6 pb-10">
-        <Heading />
-        <Heroes />
-      </div>
-      <Footer />
-    </div>
-  );
-};
+const LandingPage = () => {
+    return ( 
+    <div className="bg-white text-black">
+        <Navbar />
+        <HeroSection />
+        <SecondSection />
+        <ThirdSection />
+        <FourthSection />
+        <FifthSection />
 
-export default MarketingPage;
+        <SixthSection />
+        <SeventhSection />
+        <GetStartedFree />
+        <Footer />
+
+    </div> );
+}
+ 
+export default LandingPage;
