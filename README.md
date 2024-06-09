@@ -63,9 +63,17 @@ https://github.com/DhruvSharma19/notion/assets/112254552/ef164a06-def0-409a-85c2
 
 ## 🖼️ Screenshots
 
-![home-dark](https://github.com/DhruvSharma19/notion/assets/112254552/e9b1cd32-73ca-4651-a8ac-eec4d6a8898b)
-![home-light](https://github.com/DhruvSharma19/notion/assets/112254552/f30065c8-ad5b-4cef-92e8-4fc71de62998)
-![home-auth](https://github.com/DhruvSharma19/notion/assets/112254552/61f5c35b-ee81-4134-b220-b526d2858313)
+![1](https://github.com/DhruvSharma19/NoteWave/assets/112254552/61d9fdc8-c044-4e5c-a182-0b352515a064)
+![2](https://github.com/DhruvSharma19/NoteWave/assets/112254552/83fb76dd-5a4f-4063-8382-f3b363c0e68a)
+![3](https://github.com/DhruvSharma19/NoteWave/assets/112254552/a32193cb-4860-4b18-a12e-07e42b6207ae)
+![4](https://github.com/DhruvSharma19/NoteWave/assets/112254552/fea41e17-0185-47fc-aec6-31374ba62bac)
+![5](https://github.com/DhruvSharma19/NoteWave/assets/112254552/3368389a-014b-4458-8ed2-abf15fdeb6e1)
+![6](https://github.com/DhruvSharma19/NoteWave/assets/112254552/5ae0a729-9a34-4a31-a791-f191ed5747e8)
+![7](https://github.com/DhruvSharma19/NoteWave/assets/112254552/ced8969b-1c17-4318-9d36-d052ef122e45)
+![8](https://github.com/DhruvSharma19/NoteWave/assets/112254552/5bd1604e-398e-470a-b0d0-aa2cabc19524)
+![9](https://github.com/DhruvSharma19/NoteWave/assets/112254552/7e708445-8ab3-4364-8862-684746d5cd8d)
+![10](https://github.com/DhruvSharma19/NoteWave/assets/112254552/51cd01ea-1a97-4f91-925e-48f66fbc48f3)
+![11](https://github.com/DhruvSharma19/NoteWave/assets/112254552/a61604f7-5d36-4740-9fba-417054af7196)
 ![notes-light](https://github.com/DhruvSharma19/notion/assets/112254552/e8ac146d-8345-4ad8-bebb-b041a2f960bf)
 ![document-light](https://github.com/DhruvSharma19/notion/assets/112254552/dd770173-68bb-4ce5-8209-c673dda44cd1)
 ![notes-dark](https://github.com/DhruvSharma19/NoteWave/assets/112254552/da5aa19c-88d8-4de3-8acb-debb855168c6)
