@@ -9,7 +9,7 @@ Notewave is a feature-rich notes app built with modern technologies. With Real-t
 
 ## 🎬 Demo Video
 
-https://github.com/DhruvSharma19/notion/assets/112254552/ef164a06-def0-409a-85c2-3c07a7fc36b6
+https://github.com/DhruvSharma19/NoteWave/assets/112254552/cee9a685-ef2b-4e1a-8af3-3898b603b2cc
 
 ## 🛠️ System Diagrams
 
