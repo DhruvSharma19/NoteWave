@@ -1,19 +1,19 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
+node_modules/
+.pnp/
 .pnp.js
 
 # testing
-/coverage
+coverage/
 
 # next.js
-/.next/
-/out/
+.next/
+out/
 
 # production
-/build
+build/
 
 # misc
 .DS_Store
@@ -33,3 +33,63 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+desktop.ini
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore compiled files
+*.class
+*.o
+*.so
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore package managers
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Ignore editor and IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore backup files
+*.bak
+*.swp
+
+# Ignore generated documentation
+/docs/
+
+# Ignore build files
+/dist/
+.build/
+target/
+out/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+
+# Ignore test files
+*.coverage
+*.lcov
+coverage/

@@ -2,8 +2,8 @@
 
 Notewave is a feature-rich notes app built with modern technologies. With Real-time database, feature rich editor, Light and Dark mode, Infinite children documents, and many more exciting features, Notewave is the perfect tool to help you organize your thoughts, tasks, and ideas.
 
-🧑‍💻 **Test User:** testUser@gmail.com  
-🔐 **Password:** 12345678
+<!-- 🧑‍💻 **Test User:** testUser@gmail.com  
+🔐 **Password:** 12345678 -->
 
 🌐 **Website Link:** [NoteWave](https://notewave-chi.vercel.app/)
 

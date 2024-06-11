@@ -42,12 +42,12 @@ const ActionButtons = () => {
         </div>
 
         <div className="flex lg:space-x-4 items-center pr-4">
-        {isClient && isLoading && <Spinner />}
+          {isClient && isLoading && <Spinner />}
           {isClient && !isAuthenticated && !isLoading && (
             <>
               <SignInButton mode="modal">
-                <Button 
-                 variant="outline" className="lg:flex items-center hidden border-none text-md text-white">
+                <Button
+                  variant="outline" className="lg:flex items-center hidden border-none text-md text-white">
                   Log in
                 </Button>
               </SignInButton>
@@ -69,18 +69,18 @@ const ActionButtons = () => {
         </div>
       </div>
 
-      {isClient && isDropdownVisible && (
+      {isClient && isDropdownVisible && !isLoading && (
         <div onClick={toggleDropdown} className="rounded-full xl:hidden">
           <X className="h-5 w-5 items-center justify-center rounded-full" />
         </div>
       )}
-      {isClient && !isDropdownVisible && (
+      {isClient && !isDropdownVisible && !isLoading && (
         <div onClick={toggleDropdown} className="flex lg:hidden">
           <AlignJustify className="h-6 w-6 items-center justify-center mr-2" />
         </div>
       )}
 
-      {isClient && isDropdownVisible && <DropdownMenu onClose={closeDropdown} />}
+      {isClient && isDropdownVisible && !isLoading && <DropdownMenu onClose={closeDropdown} />}
     </div>
   );
 };
