@@ -49,7 +49,7 @@ https://github.com/DhruvSharma19/NoteWave/assets/112254552/cee9a685-ef2b-4e1a-8a
 
 - Recover Deleted Files: Easily recover accidentally deleted files.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Next.js: A popular React framework for building fast and efficient web applications.
 - Convex: A real-time database for seamless synchronization.
@@ -161,4 +161,4 @@ We appreciate your contributions and will review your pull request as soon as po
 
 A big thank you to everyone who contributed to this project! We appreciate your support and feedback.
 
-If you have any questions or need assistance, feel free to open an issue or reach out to the project maintainers. Enjoy using NoteWave and happy coding! ✨
+If you have any questions or need assistance, feel free to open an issue or reach out to the project maintainers. Enjoy using NoteWave and happy coding!
