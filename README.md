@@ -2,66 +2,66 @@
 
 Notewave is a feature-rich notes app built with modern technologies. With Real-time database, feature rich editor, Light and Dark mode, Infinite children documents, and many more exciting features, Notewave is the perfect tool to help you organize your thoughts, tasks, and ideas.
 
-<!-- 🧑‍💻 **Test User:** testUser@gmail.com  
-🔐 **Password:** 12345678 -->
+<!-- **Test User:** testUser@gmail.com  
+**Password:** 12345678 -->
 
-🌐 **Website Link:** [NoteWave](https://notewave-chi.vercel.app/)
+**Website Link:** [NoteWave](https://notewave-chi.vercel.app/)
 
-## 🎬 Demo Video
+## Demo Video
 
 https://github.com/DhruvSharma19/NoteWave/assets/112254552/cee9a685-ef2b-4e1a-8af3-3898b603b2cc
 
-## 🛠️ System Diagrams
+## System Diagrams
 
 ![NoteWave-2](https://github.com/DhruvSharma19/NoteWave/assets/112254552/9dd4e428-72c2-48d1-a8e2-0b20956eb897)
 ![NoteWave-1](https://github.com/DhruvSharma19/NoteWave/assets/112254552/7d5f9e96-90df-42c1-adb7-94b5a5f55a34)
 ![Notewave-3](https://github.com/DhruvSharma19/NoteWave/assets/112254552/5f01e10d-c6ae-46af-9624-6b6ca0765bc5)
 
-## ✨ Features
+## Features
 
-- Real-time Database 🔗: Enjoy real-time synchronization and collaborative editing of your notes.
+- Real-time Database : Enjoy real-time synchronization and collaborative editing of your notes.
 
-- Feature rich Editor 📝: Create rich and visually appealing documents with ease.
+- Feature rich Editor : Create rich and visually appealing documents with ease.
 
-- Light and Dark Mode 🌓: Choose your preferred interface style for day and night.
+- Light and Dark Mode : Choose your preferred interface style for day and night.
 
-- Infinite Children Documents 🌲: Nest documents within documents, creating a flexible and hierarchical structure.
+- Infinite Children Documents : Nest documents within documents, creating a flexible and hierarchical structure.
 
-- Trash Can & Soft Delete 🗑️: Safeguard your notes with a trash can and the option to recover deleted items.
+- Trash Can & Soft Delete : Safeguard your notes with a trash can and the option to recover deleted items.
 
-- Authentication 🔐: Secure your data with user authentication.
+- Authentication : Secure your data with user authentication.
 
-- File Upload, Deletion, and Replacement 📂: Easily manage and attach files to your notes.
+- File Upload, Deletion, and Replacement: Easily manage and attach files to your notes.
 
-- Icons for Each Document 🌠: Customize your document icons, and see changes in real-time.
+- Icons for Each Document: Customize your document icons, and see changes in real-time.
 
-- Expandable Sidebar ➡️🔀⬅️: A convenient sidebar for quick navigation.
+- Expandable Sidebar: A convenient sidebar for quick navigation.
 
-- Full Mobile Responsiveness 📱: Access your notes on the go with a mobile-responsive design.
+- Full Mobile Responsiveness: Access your notes on the go with a mobile-responsive design.
 
-- Publish Your Note to the Web 🌐: Share your notes with the world by publishing them online.
+- Publish Your Note to the Web: Share your notes with the world by publishing them online.
 
-- Fully Collapsible Sidebar ↕️: Maximize your document space by collapsing the sidebar.
+- Fully Collapsible Sidebar: Maximize your document space by collapsing the sidebar.
 
-- Landing Page 🛬: A welcoming landing page for easy access to your notes.
+- Landing Page: A welcoming landing page for easy access to your notes.
 
-- Cover Image for Each Document 🖼️: Personalize your documents with cover images.
+- Cover Image for Each Document: Personalize your documents with cover images.
 
-- Recover Deleted Files 🔄📄: Easily recover accidentally deleted files.
+- Recover Deleted Files: Easily recover accidentally deleted files.
 
 ## 🛠 Technologies Used
 
-- Next.js: A popular React framework for building fast and efficient web applications. 🚀
-- Convex: A real-time database for seamless synchronization. ⏳
-- Clerk: An authentication and user management system for secure access. 🔐
-- Tailwind CSS: A utility-first CSS framework for building responsive designs. 🎨
-- Zod: A TypeScript-first library for data validation. 🛡️
-- Sonner: A utility for real-time updates. 🔄
-- Lucid-React: A set of React components for a modern UI. ✨
-- Blocknote: The core editor for Notewave. 📝
-- Edgestore: A database library for high-performance, real-time applications. 🚀
+- Next.js: A popular React framework for building fast and efficient web applications.
+- Convex: A real-time database for seamless synchronization.
+- Clerk: An authentication and user management system for secure access.
+- Tailwind CSS: A utility-first CSS framework for building responsive designs.
+- Zod: A TypeScript-first library for data validation.
+- Sonner: A utility for real-time updates.
+- Lucid-React: A set of React components for a modern UI.
+- Blocknote: The core editor for Notewave.
+- Edgestore: A database library for high-performance, real-time applications.
 
-## 🖼️ Screenshots
+## Screenshots
 
 ![1](https://github.com/DhruvSharma19/NoteWave/assets/112254552/61d9fdc8-c044-4e5c-a182-0b352515a064)
 ![2](https://github.com/DhruvSharma19/NoteWave/assets/112254552/83fb76dd-5a4f-4063-8382-f3b363c0e68a)
@@ -90,7 +90,7 @@ https://github.com/DhruvSharma19/NoteWave/assets/112254552/cee9a685-ef2b-4e1a-8a
 
 Your instructions look great! I made a couple of minor formatting adjustments for clarity:
 
-## 🚀 Getting Started
+## Getting Started
 
 To get started with NoteWave, follow these steps:
 
@@ -120,7 +120,7 @@ To get started with NoteWave, follow these steps:
    npm start
    ```
 
-## 🤝 Contributions
+## Contributions
 
 We welcome contributions to NoteWave! To contribute:
 
@@ -157,7 +157,7 @@ We welcome contributions to NoteWave! To contribute:
 
 We appreciate your contributions and will review your pull request as soon as possible!
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 A big thank you to everyone who contributed to this project! We appreciate your support and feedback.
 
